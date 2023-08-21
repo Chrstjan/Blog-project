@@ -15,6 +15,10 @@ header {
     background: white;
 }
 
+span {
+    color: #fff;
+}
+
 .left-column {
     float: left;
     width: 75%;
@@ -30,7 +34,7 @@ header {
     width: 100%;
 }
 
-.fake-img {
+.thumbnail {
     background-color: #aaa;
     width: 100%;
     padding: 20px;
