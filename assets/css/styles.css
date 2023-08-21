@@ -56,13 +56,6 @@ span {
     clear: both;
 }
 
-.footer {
-    padding: 20px;
-    text-align: center;
-    background: #ddd;
-    margin-top: 20px;
-}
-
 .fa {
     padding: 20px;
     font-size: 30px;
@@ -84,6 +77,21 @@ span {
 .fa-twitter {
     background: #55ACEE;
     color: #fff;
+}
+
+footer {
+  padding: 20px;
+  text-align: center;
+  background: #ddd;
+  margin-top: 20px;
+}
+
+footer h2 {
+    color: #fff;
+}
+
+footer p {
+    
 }
 
 /* when the screen is less than 800px width,
