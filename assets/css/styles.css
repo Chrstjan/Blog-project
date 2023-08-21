@@ -26,10 +26,18 @@ header {
     padding-left: 20px;
 }
 
+.article-img {
+    width: 100%;
+}
+
 .fake-img {
     background-color: #aaa;
     width: 100%;
     padding: 20px;
+}
+
+.me-img {
+    width: 100%;
 }
 
 .card {
